@@ -7,6 +7,7 @@
         <artifactId>identity-parent</artifactId>
         <groupId>com.pact.identity</groupId>
         <version>1.0-SNAPSHOT</version>
+        <relativePath>../identity-parent/pom.xml</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <artifactId>identity-domain</artifactId>
