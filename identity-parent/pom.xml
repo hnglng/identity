@@ -17,7 +17,7 @@
 
 
     <build>
-        <defaultGoal>install</defaultGoal>
+        <defaultGoal>clean install</defaultGoal>
     </build>
 
     <properties>
