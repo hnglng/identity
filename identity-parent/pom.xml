@@ -15,6 +15,11 @@
         <module>../identity-webapp</module>
     </modules>
 
+
+    <build>
+        <defaultGoal>install</defaultGoal>
+    </build>
+
     <properties>
         <springframework.version>4.0.5</springframework.version>
     </properties>
