@@ -39,7 +39,7 @@
 
 
     <build>
-        <finalName>Identity</finalName>
+        <finalName>identity-web</finalName>
         <plugins>
             <!-- Maven Tomcat Plugin -->
             <plugin>
